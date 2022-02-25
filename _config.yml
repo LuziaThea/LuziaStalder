@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: My projects
+author:
+  name: Luzia Stalder
+  email: luzia.stalder@unine.ch
+description: "Overview of research projects I am working on."
+
+# Build settings
+
+remote_theme: daviddarnes/alembic
